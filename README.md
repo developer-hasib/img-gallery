@@ -1,2 +1,2 @@
 # img-gallery
-Live preview : https://hasibulislamthedeveloper.github.io/img-gallery/
+Live preview : https://developer-hasib.github.io/img-gallery/
